@@ -19,4 +19,4 @@ You should import `numpy` and `matplotlib` packages in order to run the code.The
 
 **Credits**
 
-This assignment is given by dear Berk Gökberk who is our instructor for Introduction to Machine Learning course.
+This assignment is given by dear Berk Gökberk who is our instructor to the Introduction to Machine Learning course.
