@@ -6,7 +6,7 @@ To avoid overfitting, model complexity can be automatically decided using a vali
 
 **Installation**
 
-You can install the polyfit.py and the data(data_training.txt and data_validation.txt). Once you put all these files in the same folder. You can install the necesary packages to run the code.
+You can install the polyfit.py and the data(data_training.txt and data_validation.txt). Once you put all these files in the same folder. You can install the necessary packages to run the code.
 
 **Usage**
 
