@@ -1,2 +1,2 @@
 # machine-learning
-Assignments that I did in the machine learning course
+Assignments from COMP462 - Introduction to Machine Learning course
